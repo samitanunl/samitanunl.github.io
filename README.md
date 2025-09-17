@@ -1,2 +1,2 @@
-# samitanunl.github.io
+samitanunl.github.io
 Hello World Samitanun
